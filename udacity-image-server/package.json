@@ -33,6 +33,6 @@
     "express": "^4.17.1",
     "jimp": "^0.9.7",
     "jsonwebtoken": "^8.5.1",
-    "url-parse": "^1.4.7"
+    "url-parse": "^1.5.2"
   }
 }
